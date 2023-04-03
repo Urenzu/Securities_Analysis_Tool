@@ -1,2 +1,2 @@
 # Securities_Analysis_Tool
-Financial analysis tool for calculating key valuation metrics for equities and fixed income securities.
+Develop a financial analysis tool for calculating essential valuation metrics for both equities and fixed income securities.
